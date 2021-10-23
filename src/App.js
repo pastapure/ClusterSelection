@@ -5,3 +5,4 @@ import Map from "./maps/ClusterSelectMap";
 export default function App() {
   return <Map />;
 }
+
